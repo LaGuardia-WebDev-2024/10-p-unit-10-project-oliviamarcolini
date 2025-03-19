@@ -1,3 +1,8 @@
+@font-face {
+  font-family: goth;
+  src: url(https://cdn.glitch.global/d43befd0-3165-4b3f-877c-9ae333fb5e3c/Gothic%20War.otf?v=1742392227425)
+}
+
 body {
   background-color: black;
   text-align: center;
@@ -35,6 +40,13 @@ html{
 
 h2{
   color: black;
+}
+
+h1{
+  color: white;
+  font-size: 70px;
+  font-family: goth;
+  letter-spacing: 4px;
 }
 
 #start{
